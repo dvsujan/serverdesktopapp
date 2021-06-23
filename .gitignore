@@ -1,0 +1,6 @@
+/.env
+/HQPost
+/node_modules
+/package-lock.json
+/profiles
+/ServerProfiles
